@@ -1,0 +1,29 @@
+﻿## [Visual Studio / JetBrains Rider]
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## [Build Results]
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## [Test Results]
+TestResults/
+[Tt]est[Rr]esult*/
+
+## [OS Generated]
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## [Temporary & Generated Files]
+SampleData/
+Reports/
+*.tmp
+*~
